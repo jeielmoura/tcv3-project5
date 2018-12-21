@@ -1,0 +1,9 @@
+data/*
+
+code/__pycache__
+
+model/*
+result/*
+
+*/.directory
+.directory
